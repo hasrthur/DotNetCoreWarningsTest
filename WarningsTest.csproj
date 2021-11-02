@@ -10,6 +10,8 @@
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
     <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <NoWarn>CA1014,CA1812</NoWarn>
   </PropertyGroup>
 
 </Project>
